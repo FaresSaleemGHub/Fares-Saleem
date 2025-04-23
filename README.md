@@ -5,6 +5,9 @@
 🛠️ Freelance developer and former university lecturer with a passion for problem-solving and clean code  
 🌍 Based in Gaza, Palestine
 
+🔗 Check out my latest app with 15K+ downloads on Google Play:  
+📱 **Omdat Al-Ahkam Book App** – [View Repository](https://github.com/FaresSaleemGHub/Omdat-Alahkam-Book-App)
+
 ---
 
 ### 🛠️ Tech Stack
