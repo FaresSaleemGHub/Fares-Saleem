@@ -8,7 +8,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 - **Languages:** Java, C++, SQL, PL/SQL  
 - **Frameworks/Tools:** Android SDK, Java OOP, Oracle DB, NetBeans, Visual Studio  
 - **Concepts:** Database Design, ERD, Normalization, Object-Oriented Programming  
@@ -16,7 +15,6 @@
 ---
 
 ### 📂 Projects
-
 #### 🔷 Java Desktop Applications
 - 📊 **Accounting System** — financial and accounting transactions software  
 - 📚 **Library Management System** — for university-level libraries  
@@ -42,10 +40,6 @@
 ---
 
 ### 📬 Contact Me
-- **Email:** fareses1@hotmail.com  
+- **Email:** fareses11@hotmail.com  
 - **Phone:** +970 594 022 616  
 - **Facebook:** [Fares T. H. Saleem](https://facebook.com)  
-
----
-
-🔧 *Open to collaboration, remote jobs, freelance projects, or mentorship opportunities.*
