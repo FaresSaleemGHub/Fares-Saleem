@@ -29,7 +29,8 @@
 - 🏨 **Hotel Booking App** — mobile room reservation  
 (Freelance projects, 2020–Now)
 
-#### 🎮 C++ Mini Games
+#### 🎮 C++ Apps
+- 🏦 **Bank MAanagement System & ATM System**
 - ✂️ **Rock-Paper-Scissors Game**  
 - 🧠 **Math Quiz Game**  
 (Freelance, 2024–Now)
